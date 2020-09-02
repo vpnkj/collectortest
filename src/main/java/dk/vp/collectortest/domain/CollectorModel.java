@@ -2,7 +2,7 @@ package dk.vp.collectortest.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonView;
-import dk.vp.collectortest.Views.Views;
+import dk.vp.collectortest.views.Views;
 
 import javax.persistence.*;
 import javax.validation.constraints.Min;
