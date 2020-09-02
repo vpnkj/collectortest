@@ -2,7 +2,7 @@ package dk.vp.collectortest.controller;
 
 
 import com.fasterxml.jackson.annotation.JsonView;
-import dk.vp.collectortest.views.Views;
+import dk.vp.collectortest.Views.Views;
 import dk.vp.collectortest.domain.CollectorModel;
 import dk.vp.collectortest.exceptions.CollectorNotFound;
 import dk.vp.collectortest.service.CollectorService;

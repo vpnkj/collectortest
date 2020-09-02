@@ -1,4 +1,4 @@
-package dk.vp.collectortest.views;
+package dk.vp.collectortest.Views;
 
 public class Views {
 
